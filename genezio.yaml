@@ -1,0 +1,7 @@
+name: genezio-placeholder-project-name
+region: us-east-1
+cloudProvider: genezio
+classes:
+  - path: test.ts
+    type: jsonrpc
+    methods: []
